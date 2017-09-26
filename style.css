@@ -359,3 +359,13 @@ section:last-child {
     width: 20px;
     vertical-align: middle;
 }
+
+.progress-bar-back {
+    width: 100%;
+    background-color: grey
+}
+
+.progress-bar {
+    height: 4px;
+    background-color: #cf8a05;
+}
