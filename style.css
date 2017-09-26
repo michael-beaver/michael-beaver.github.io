@@ -369,3 +369,7 @@ section:last-child {
     height: 4px;
     background-color: #cf8a05;
 }
+
+.skills li {
+    list-style: none;
+}
